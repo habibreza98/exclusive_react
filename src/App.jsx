@@ -1,8 +1,7 @@
-import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // Import all your components
-import TopHeader from './components/Topheader';
+import TopHeader from './components/TopHeader';
 import Bottomheader from './components/Bottomheader';
 import Hero from './components/Hero';
 import Flashsales from './components/Flashsales';
